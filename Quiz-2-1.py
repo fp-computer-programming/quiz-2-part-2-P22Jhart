@@ -4,11 +4,7 @@ PosStatement=("Happy")
 
 Negstatment= ("You're not happy. Now SCRAM!")
 
-Not=("Unhappy")
-
-Happy=("Not")
-
-Angry=("You're not happy. Now SCRAM!")
+Not=("oscar happy")
 
 
 if PosStatement :print(Negstatment)
